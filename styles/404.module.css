@@ -1,0 +1,8 @@
+.notFound {
+  text-align: center;
+}
+
+.notFound a {
+  text-decoration: underline;
+  color: rgb(60, 165, 175);
+}
